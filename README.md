@@ -1,2 +1,2 @@
-# kca
-Khanty
+# Khanty (Kazym)
+Kazym dialect of Khanty
